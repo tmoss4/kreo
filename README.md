@@ -1,1 +1,1 @@
-# kreo
+Kreo template
